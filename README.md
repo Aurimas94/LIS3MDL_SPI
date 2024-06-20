@@ -1,5 +1,6 @@
 # LIS3MDL_SPI
 Driver library for LIS3MDL magnetometer using SPI
+>TODO: Add SPI DMA functionality
 
 # main.c
 >1: To use this driver:
